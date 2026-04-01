@@ -1,0 +1,19 @@
+# Binarios/temporales C++
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.exp
+*.dll
+*.log
+
+# Carpeta de compilación
+build/
+x64/
+Debug/
+Release/
+
+# VS Code
+.vscode/
